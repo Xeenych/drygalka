@@ -9,5 +9,11 @@
 * Микроконтроллер stm32f103c8t6
 * Плата BluePill.
 * PC13 = светодиод
-* PB12 - PB15 = spi1
+* PB12 = NSS
+* PB13 = SCK
+* PB14 = MISO
+* PB15 = MOSI
+
+
+
 
