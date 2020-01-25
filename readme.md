@@ -7,7 +7,7 @@
 ![bluepill](img/bluepill.jpg)
 
 * Микроконтроллер stm32f103c8t6
-* Плата BluePill.
+* Плата Blue Pill.
 * PC13 = светодиод
 * PB12 = NSS
 * PB13 = SCK
